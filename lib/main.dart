@@ -28,6 +28,13 @@ class MyApp extends StatelessWidget {
 //        ),
 //      ),
       home: new RandomWords2(),
+
+//      routes: <String, WidgetBuilder> {
+//        '/a': (BuildContext context) => new MyPage(title: 'page A'),
+//        '/b': (BuildContext context) => new MyPage(title: 'page B'),
+//        '/c': (BuildContext context) => new MyPage(title: 'page C'),
+//      },
+
     );
   }
 }
